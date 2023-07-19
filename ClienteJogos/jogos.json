@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "League of Legends",
+    "caminho": "C:\\Riot Games\\Riot Client\\RiotClientServices.exe --launch-product=league_of_legends --launch-patchline=live",
+    "icone": "lol.jpg",
+    "fundo": "lol_big.jpg"
+  },
+  {
+    "nome": "Genshin Impact",
+    "caminho": "C:\\Program Files\\Genshin Impact\\launcher.exe",
+    "icone": "genshin_impact.jpg",
+    "fundo": "genshin_big.png"
+  },
+  {
+    "nome": "Valorant",
+    "caminho": "C:\\Riot Games\\Riot Client\\RiotClientServices.exe --launch-product=valorant --launch-patchline=live",
+    "icone": "valorant.jpg",
+    "fundo": "valorant_big.jpg"
+  }
+]
